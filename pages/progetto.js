@@ -33,7 +33,7 @@ export default function projects() {
 
 
   return (
-    <ContainerBlock title="Polly - Risultati">
+    <ContainerBlock title="Dafne">
       <Progetto/>
     </ContainerBlock>
   );
